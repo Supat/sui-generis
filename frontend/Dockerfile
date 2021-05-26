@@ -17,4 +17,4 @@ RUN npm install react-script -g --silent
 COPY . ./
 
 # start app
-CMD ["npm, "start"]
+CMD ["npm", "start"]
